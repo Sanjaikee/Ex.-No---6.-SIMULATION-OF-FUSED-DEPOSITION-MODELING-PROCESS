@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27/11/2023 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -24,8 +24,8 @@
 
 ![image](https://github.com/ADITHYA23000033/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/148514544/6ea10d2e-8bd7-474d-a34e-b713c5b41f58)
 
-### Name: ADITHYA V
-### Register Number: 23000033
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
